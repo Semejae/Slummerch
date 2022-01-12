@@ -1,0 +1,43 @@
+.centered-image {
+  margin: 10px;
+  width: 50%;
+  height: auto;
+  
+}
+h1.intro {
+  text-align: center;
+  color: rgb(85, 10, 10);
+  text-shadow: darkorchid;
+  
+}
+.sidebar {
+  width: 20%;
+  padding: 10px;
+  border: solid black;
+  border-width: 10px;
+  background-color: rgb(13, 197, 68);
+  margin: 20px;
+  box-sizing: border-box;
+  line-height: 50px;
+  word-spacing: 20px;
+  letter-spacing: 2px;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: oblique;
+  
+}
+
+h2.important {
+  text-align: center;
+  font-style: italic;
+}
+
+.about{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 50px;
+  color: rgb(85, 10, 10);
+  
+}
+body {
+  background-color: gray;
+}
